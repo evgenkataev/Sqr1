@@ -1,4 +1,5 @@
 package ru.netology.sqr.Sqr1.services;
+
 public class SQRService {
     public static int calcSqrCount(int minValue, int maxValue) {
 
